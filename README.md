@@ -1,3 +1,9 @@
+![alt tag](https://github.com/divyanshu-rawat/colourful-sketch/blob/master/src/assets/drawing.gif)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
+Deployed Application - https://drawing-app-19044.firebaseapp.com/
+
 # DragAndDraw
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
